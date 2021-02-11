@@ -1,7 +1,7 @@
 provider "aws" {
   resion     =	"us-east-1"
-  access_key =	"AKIASHXVVJG6QMTXAMWU"
-  secret_key =  "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"
+  access_key =	"*********"
+  secret_key =  "******"
 
 }
 data "aws_ami" "ubuntu" {
